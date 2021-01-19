@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-# get_obj_dist_to_line(): function to calculate length of an object wrt to a line represented by a and b
+# get_object_length_wrt_line(): function to calculate length of an object wrt to a line represented by a and b
 ###############################Example########################################
 # mask:
 #
